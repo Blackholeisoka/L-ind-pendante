@@ -6,7 +6,7 @@ Merci de votre intérêt pour contribuer à ce projet. Voici quelques étapes po
 
 1. **Fork** le projet.
 2. **Clone** votre fork en local :
-    bash => git clone https://github.com/Blackholeisoka/librairie-independante.git
+    bash => git clone https://github.com/Blackholeisoka/L-ind-pendante.git
     
 3. Créez une **branche** pour vos modifications :
 
