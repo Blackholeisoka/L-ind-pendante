@@ -20,7 +20,7 @@ Prérequis
 Navigateur Web : Un navigateur moderne comme Google Chrome, Firefox, Opera, ou Edge.
 Serveur Web local (facultatif) : Vous pouvez utiliser des outils comme Live Server et un serveur comme Apache / WampServeur (localhost) pour visualiser le site en local.
 Instructions
-Clonez le dépôt sur votre machine : bash => git clone https://github.com/Blackholeisoka/librairie-independante.git
+Clonez le dépôt sur votre machine : bash => git clone https://github.com/Blackholeisoka/L-ind-pendante.git
 
 Ouvrez le fichier index.html dans votre navigateur.
 
